@@ -57,6 +57,8 @@ The environment for this lab was intentionally kept simple and operations-focuse
 ### Key Design Point
 The main design goal was to manage the EC2 instance **without using SSH keys or opening inbound port 22**.
 
+<img width="1536" height="1024" alt="architecture-diagram" src="https://github.com/user-attachments/assets/0bde488f-de0c-4da3-bafa-3b9b10bc0709" />
+
 ---
 
 ## Validation Steps
